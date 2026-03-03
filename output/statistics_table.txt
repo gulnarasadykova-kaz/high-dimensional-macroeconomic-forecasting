@@ -1,0 +1,7 @@
+
+
+Table: Descriptive Statistics for WTI Oil Price (Y)
+
+|   Mean| Median|     SD|      Min|     Max| Skewness| Kurtosis|
+|------:|------:|------:|--------:|-------:|--------:|--------:|
+| 0.1422| 0.6251| 4.8832| -28.1597| 13.5217|  -1.3215|   8.3133|
